@@ -1,23 +1,42 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 如何在GitHub上添加貪吃蛇的動畫？
 
-## 開啟Repository，點選上方Actions頁籤
+<!--ts-->
+## 目錄
+* [開啟Repository，點選上方Actions頁籤](#step1)
+* [設置Workflow](#step2)
+* [建立main.yml檔案](#step3)
+* [刪掉main.yml的內容並且將以下代碼貼上](#step4)
+* [點擊在Actinos頁籤畫面左側的Generate Datas，並且點選右側的Run workflw.](#step5)
+* [檢查建置出來的.SVG檔案是否有出現在OutPut的分支上](#step6)
+* [添加以下的語法至README.md檔案上](#step7)
+* [跑吧，可愛的小蛇！](#step8)
+* [參考文件](#參考文件)
+<!--te-->
+
+---
+<br><br>
+
+## Step1
+### 開啟Repository，點選上方Actions頁籤
 ![](https://drive.google.com/uc?id=17746pbaUjQDEPkZDWPQRQ-xwVKb0d80n)
 
 ---
 <br><br>
-## 設置Workflow
+## Step2
+### 設置Workflow
 ![](https://drive.google.com/uc?id=1xHVMHJCOvFU4MnYaveat4O_59E2MvOf3)
 
 ---
 <br><br>
-
-## 建立main.yml檔案
+## Step3
+### 建立main.yml檔案
 ![](https://drive.google.com/uc?id=1DqTFxjWwMdYyq0E6l2NZEL8CCvMenqDv)
 
 ---
 <br><br>
 
-## 刪掉main.yml的內容並且將以下代碼貼上
+## Step4
+### 刪掉main.yml的內容並且將以下代碼貼上
 ```yml
 name: Generate Datas
 
@@ -50,14 +69,15 @@ jobs:
 <br><br>
 
 
-## 點擊在Actinos頁籤畫面左側的Generate Datas，並且點選右側的Run workflw.
+## Step5
+### 點擊在Actinos頁籤畫面左側的Generate Datas，並且點選右側的Run workflw.
 ![](https://drive.google.com/uc?id=139WSa9l11SjQw6cnJ22dZgaQWI4eHzLm)
 
 ---
 <br><br>
 
 
-## 如果成功的話，則會顯示Workflow開始運行.
+### 如果成功的話，則會顯示Workflow開始運行.
 ![](https://drive.google.com/uc?id=1ucmC8GHYyza-TPRvUu4nzs7gPZ-q0_WG)
 
 ---
@@ -70,13 +90,15 @@ jobs:
 ---
 <br><br>
 
-## 檢查建置出來的.SVG檔案是否有出現在OutPut的分支上
+## Step6
+### 檢查建置出來的.SVG檔案是否有出現在OutPut的分支上
 ![](https://drive.google.com/uc?id=1_7pwN9DJn_SjWLEGSmGIiuZghDdjO7LV)
 
 ---
 <br><br>
 
-## 添加以下的語法至README.md檔案上
+## Step7
+### 添加以下的語法至README.md檔案上
 
 ```md
 ![Snake animation](https://github.com/{{your_username}}/{{your_username}}/blob/output/github-contribution-grid-snake.svg)
@@ -85,7 +107,8 @@ jobs:
 ---
 <br><br>
 
-## 跑吧，可愛的小蛇！
+## Step8
+### 跑吧，可愛的小蛇！
 ![Snake animation](https://github.com/RC-Dev-Tech/RC-Dev-Tech/blob/output/github-contribution-grid-snake.svg)
 
 ---
