@@ -10,7 +10,7 @@
 * [檢查建置出來的.SVG檔案是否有出現在OutPut的分支上](#step6)
 * [添加以下的語法至README.md檔案上](#step7)
 * [跑吧，可愛的小蛇！](#step8)
-* [參考文件](#參考文件)
+* [參考資料](#參考資料)
 <!--te-->
 
 ---
@@ -114,7 +114,7 @@ jobs:
 ---
 <br>
 
-## 參考文件
+## 參考資料
 * [add-github-dark-snake-animation-readme](https://blog.arnabghosh.me/add-github-dark-snake-animation-readme#heading-2-go-to-action)  
 * [github-contributions](https://github.com/topics/github-contributions)
 
