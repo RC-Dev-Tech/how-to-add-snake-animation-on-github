@@ -17,7 +17,7 @@
 
 ---
 
-## Step1 - 開啟Repository，點選上方Actions頁籤
+## Step1 開啟Repository，點選上方Actions頁籤
 ![](https://drive.google.com/uc?id=17746pbaUjQDEPkZDWPQRQ-xwVKb0d80n)
 
 ---
