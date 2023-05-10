@@ -4,21 +4,20 @@
 
 <!--ts-->
 ## 目錄
-* [Step1. 開啟Repository，點選上方Actions頁籤](#step1)
-* [Step2. 設置Workflow](#step2)
-* [Step3. 建立main.yml檔案](#step3)
-* [Step4. 刪掉main.yml的內容並且將以下代碼貼上](#step4)
-* [Step5. 點擊在Actinos頁籤畫面左側的Generate Datas，並且點選右側的Run workflw.](#step5)
-* [Step6. 檢查建置出來的.SVG檔案是否有出現在OutPut的分支上](#step6)
-* [Step7. 添加以下的語法至README.md檔案上](#step7)
-* [Step8. 跑吧，可愛的小蛇！](#step8)
+* [Step1. 開啟Repository，點選上方Actions頁籤](#step1-*)
+* [Step2. 設置Workflow](#step2-*)
+* [Step3. 建立main.yml檔案](#step3-*)
+* [Step4. 刪掉main.yml的內容並且將以下代碼貼上](#step4-*)
+* [Step5. 點擊在Actinos頁籤畫面左側的Generate Datas，並且點選右側的Run workflw.](#step5-*)
+* [Step6. 檢查建置出來的.SVG檔案是否有出現在OutPut的分支上](#step6-*)
+* [Step7. 添加以下的語法至README.md檔案上](#step7-*)
+* [Step8. 跑吧，可愛的小蛇！](#step8-*)
 * [參考資料](#參考資料)
 <!--te-->
 
 ---
 
-## Step1
-### 開啟Repository，點選上方Actions頁籤
+## Step1 - 開啟Repository，點選上方Actions頁籤
 ![](https://drive.google.com/uc?id=17746pbaUjQDEPkZDWPQRQ-xwVKb0d80n)
 
 ---
