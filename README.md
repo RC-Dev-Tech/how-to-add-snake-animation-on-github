@@ -1,7 +1,7 @@
 # ![](https://drive.google.com/uc?id=10INx5_pkhMcYRdx_OO4rXNXxcsvPtBYq) 如何在GitHub上添加貪吃蛇的動畫？
 
 ```diff
-- 目前已經更新到3.0版，所以之前舊版的main.yml需要更新.
+- 目前已經更新到3.0版，所以還處在舊版的main.yml需要更新，否則會無法運作.
 ```
 
 ---
